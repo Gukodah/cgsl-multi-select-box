@@ -156,15 +156,3 @@ multiSelectInputFieldProps         | object |                                   
 | searchIconColor         | color string |                                                                                                                                                        Default primary color |
 | toggleIconColor         | color string |                                                                                                                                                        Default primary color |
 | options                   |    array     | `[{ item: 'Juventus', id: 'JUVE'},{ item: 'Real Madrid', id: 'RM'},{ item: 'Barcelona', id: 'BR'},{ item: 'PSG', id: 'PSG'},{ item: 'FC Bayern Munich', id: 'FBM'}]` |
-
-## Want to be a contributor? 👷🏼‍♂️👷🏼‍♀️
-
-Check-in `develop` branch and submit a new pull-request
-
-## Issues or feature request? ✍🏼
-
-You can submit a request on https://github.com/sauzy34/react-native-multi-selectbox/issues
-
-## Support & Share 💆🏼‍♂️
-
-Please star the repository on Github to enhance the reach to more developers.
